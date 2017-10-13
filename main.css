@@ -1,0 +1,30 @@
+body {font-family:Verdana, Arial, Helvetica;
+           margin-top:3px; margin-bottom:3px; margin-left:3px; margin-right:3px; 
+           color: #000000; bgcolor:#ffffff; 
+           PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px;
+          }
+
+td {color: #000000; FONT-SIZE: 80%; FONT-FAMILY: Verdana, Arial, Helvetica}
+A {COLOR: #2266aa; TEXT-DECORATION: none}
+A:link {COLOR: #2266aa; TEXT-DECORATION: none}
+A:visited {COLOR: #2266dd; TEXT-DECORATION: none}
+A:active {COLOR: #2266aa; TEXT-DECORATION: none}
+A:hover {COLOR: #004488; TEXT-DECORATION: underline}
+
+h1 {PADDING-LEFT: 15px; PADDING-RIGHT: 15px; COLOR: #dd8800; TEXT-DECORATION: none; FONT-SIZE: 160%}
+h2 {PADDING-LEFT: 10px; PADDING-RIGHT: 10px; COLOR: #dd8800; TEXT-DECORATION: none; FONT-SIZE: 120%}
+h3 {PADDING-LEFT: 10px; PADDING-RIGHT: 10px; COLOR: #dd8800; TEXT-DECORATION: none; FONT-SIZE: 100%}
+p {PADDING-LEFT: 10px; PADDING-RIGHT: 10px; COLOR: #000000; TEXT-DECORATION: none; FONT-SIZE: 100%}
+textarea { font-size:12px; font-family:arial,verdana;}
+
+p.response_fail { COLOR: #dd2233; }
+p.response_ok  { COLOR: #22dd33; }
+
+table.command { bgcolor: #eeeeee; font-size: 100%; color: #000000}
+
+a.dir { color:#000066 }
+a.file { color:#000000 }
+td.listtext { color:#222222 }
+
+
+

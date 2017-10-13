@@ -1,0 +1,30 @@
+->ToDo
+	-FTP Zugriff zum Dateirechte fixen
+	-Neues OOP Design
+
+
+-> Release 0.4.1
+14.10.06 Viele kleine Fixe bei: upload, neue datei anlegen
+
+
+-> Release 0.4
+09.10.06 Viele Fixe für Hosteurope
+			Dateibesitzer wird angezeigt
+			Schreibrechte vorher geprüft
+			Vorschau geht wieder
+			Globals müssen nicht an sein
+			 
+
+-> Release 0.3
+18.11.05 Design geändert; CSS-basiert; Themes weg
+
+14.03.04  Bugs mit command behoben (leerzeichen in ordnern)
+
+-> Release 0.2
+
+16.5.04 zurücklink wieder eingebaut und kein Javapopup mehr
+27.10.05 Docrootbeschränkung entfernt
+                 Tastenkürzel für schreiben (alt w) und wq (alt q)
+
+
+
